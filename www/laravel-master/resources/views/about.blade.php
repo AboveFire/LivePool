@@ -8,7 +8,7 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    À propos.
+                    À propos test de git.
                 </div>
             </div>
         </div>
